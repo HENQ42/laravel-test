@@ -30,7 +30,7 @@ Siga os passos abaixo para configurar e executar a aplicação:
 Primeiro, clone o repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/seu-usuario/laravel-test.git
+git clone https://github.com/HENQ42/laravel-test.git
 cd laravel-test
 ```
 
