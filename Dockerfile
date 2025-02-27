@@ -17,5 +17,6 @@ WORKDIR /
 RUN mkdir laravel
 WORKDIR /laravel
 
+EXPOSE 8000
 # # Instalar as dependências do Laravel
 # RUN composer install
